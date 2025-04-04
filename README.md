@@ -1,26 +1,19 @@
-Investor Forecasting Simulation
+Investor Forecasting Simulation 
 
-This Investor Forecasting Simulation is a Python-based asset pricing simulation designed to explore investor behavior through different forecasting strategies. The project simulates how investors predict asset prices using naive, adaptive, and trend-following methods, demonstrating their impact on market dynamics.
+Investor Forecasting Simulation is a Python-based asset pricing simulation designed to explore how investors predict asset prices using various forecasting methods. This project specifically focuses on naive, adaptive, and trend-following techniques, illustrating their impact on market dynamics and investor behavior.
 
 Overview
 
-The simulation includes:
+This simulation highlights three distinct investor forecasting strategies:
 
-Naive Forecasting: Investors predict future prices equal to the most recent observed price.
-
-Adaptive Forecasting: Predictions adjust dynamically, incorporating previous forecasts and recent prices with a parameter (alpha).
-
-Trend Forecasting: Investors extrapolate recent trends into future prices using a parameter (beta).
-
-This project is ideal for students or professionals interested in economics, finance, data analysis, and modeling investor behavior.
+Naive Forecasting: Predicts future prices based on the most recent price observed.
+Adaptive Forecasting: Forecasts dynamically adjust based on recent prices and previous predictions, controlled by a smoothing parameter (alpha).
+Trend Forecasting: Projects future prices by identifying recent trends, guided by a trend parameter (beta).
+This project provides insights into financial economics and asset pricing theory, suitable for economics, finance, and data-focused roles.
 
 Features
 
-Multiple forecasting methods (Naive, Adaptive, Trend)
-
+Three distinct forecasting methods (Naive, Adaptive, Trend)
 Adjustable forecasting parameters (alpha and beta)
-
-Realistic simulation using stochastic noise
-
-Modular and extensible code design
-
+Incorporation of stochastic noise for realism
+Modular and extendable Python codebase
